@@ -23,7 +23,7 @@ jobs:
 
       - name: Run script
         run: |
-          python stv12.py
+          python provider.py
 
       - name: Commit and push changes
         run: |
